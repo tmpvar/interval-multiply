@@ -1,6 +1,6 @@
 {
   "name": "interval-multiply",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "multiply two intervals together",
   "main": "interval-multiply.js",
   "scripts": {
