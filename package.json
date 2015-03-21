@@ -1,0 +1,28 @@
+{
+  "name": "interval-multiply",
+  "version": "0.0.0",
+  "description": "multiply two intervals together",
+  "main": "interval-multiply.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/interval-multiply.git"
+  },
+  "keywords": [
+    "interval",
+    "multiply",
+    "product",
+    "times"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/interval-multiply/issues"
+  },
+  "homepage": "https://github.com/tmpvar/interval-multiply",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
